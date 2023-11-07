@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-p {
+p, a {
     font-family: 'ArcadeClassic';
     color:white;
     font-size: 25px;
@@ -20,4 +20,10 @@ h1 {
 
 #image1 {
     text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
