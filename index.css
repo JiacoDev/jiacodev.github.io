@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-family: 'ArcadeClassic';
+    color:white;
+    font-size: 25px;
+    text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2 #000000,
+               1px 1px #000000, -1px -1 #000000, 1px -1px #000000, -1px 1 #000000;
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'ArcadeClassic';
+}
+
+#image1 {
+    text-align: center;
+}

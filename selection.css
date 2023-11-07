@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#num1 {
+    text-align: center;
+    padding-left: 20%;
+}
+
+#num2 {
+    text-align: center;
+    scale: 0.8;
+}
+
+#num3 {
+    text-align: center;
+    padding-right: 20%;
+}
